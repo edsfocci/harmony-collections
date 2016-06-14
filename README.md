@@ -2,7 +2,7 @@
 
 Use the new __Map__, __Set__, and __WeakMap__ from the upcoming ES6 standard right now! This shim provides full functionality for these collections and delivers the benefits of using them.
 
-## Compatability
+## Compatibility
 
 Works with IE9+, Chrome, Firefox, Safari, untested in Opera. __IE8 support has been recently added but is experimental.__
 
